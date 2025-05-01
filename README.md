@@ -25,7 +25,7 @@ To build and run DyCrypt, you need the following dependencies installed on your 
 Clone the repository:
 
 ```bash
-git clone https://github.com/dycrypt/dycrypt.git
+git clone https://github.com/dynasmon/dycrypt/
 cd dycrypt
 ```
 
